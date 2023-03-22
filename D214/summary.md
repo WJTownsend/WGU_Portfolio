@@ -25,7 +25,7 @@ This task requires students to develop a proposal for the topic of their capston
 
 For my capstone project, I proposed using [data published by the Hass Avocado Board](https://hassavocadoboard.com/) regarding weekly purchases of Hass avocados in 2020 - 2022 in the United States to generate a forecasting model for Hass avocado sales. The null hypothesis would state that it would not be possible to generate an effective forecasting model from this data, while the alternative hypothesis posted that it would. The distinction for what constituted an "effective" forecasting model would be one with a mean absolute percentage error of < 20%. This project would make use of a number of standard Python libraries such as pandas, NumPy, MatPlotLib, and SciKit-Learn, as well as [an open source forecasting library called Prophet (formerly FBProphet)](https://facebook.github.io/prophet/), published by Facebook's core data science team. 
 
-[The full proposal for my capstone project can be found here.](d214task1.docx)
+[The full proposal for my capstone project can be found here.](d214task1.pdf)
 
 This task did not require a video. 
 
