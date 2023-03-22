@@ -47,6 +47,6 @@ This task did not require a video.
 
 ### Task 3
 
-This task requires the student to develop an executive summary of their capstone project from Task 2. This executive summary is intended for an audience with expertise in data analysis, and it must communicate the study problem & hypothesis, the data analysis process, study findings, study limitations, recommended actions (including avenues for further study), and expected corporate benefits. [The executive summary for my capstone project can be viewed here.](d214task3.docx)
+This task requires the student to develop an executive summary of their capstone project from Task 2. This executive summary is intended for an audience with expertise in data analysis, and it must communicate the study problem & hypothesis, the data analysis process, study findings, study limitations, recommended actions (including avenues for further study), and expected corporate benefits. [The executive summary for my capstone project can be viewed here.](d214task3.pdf)
 
 The student must also generate a multimedia presentation of their capstone project covering many of the same elements. This presentation is intended for a lay audience without prior knowledge or expertise in data analysis or the subject at issue. [That video can be seen here](https://drive.google.com/file/d/1mXes0hSLamDup7qHxHqF9Ep_aVQAqx9j/view?usp=share_link).
