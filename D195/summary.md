@@ -9,7 +9,7 @@ This course has three Practical Assessments.
 ## Course Objectives
 
 WGU outlines the following competencies as a part of this class:
-- **Professional Readiness:** The graduate integrates and synthesizes competencies from across the degree program, thereby demonstrating the ability to participate in and contribute value to the chosen professional field.
+- **Professional Readiness:** The graduate integrates and synthesizes competencies from across the degree program, thereby demonstrating the ability to participate in and contribute value to the chosen professional field. 
 
 ## Course Materials
 
